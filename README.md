@@ -4,12 +4,12 @@
 </head>
   
 - 👋 Hi, I’m @Focdos
-- 👀 I’m interested in Python and C++
-- 🌱 I’m currently learning Python, C++, Java and HTML
+- 👀 I’m interested in C# and C++
+- 🌱 I’m currently learning c#, C++, Java
 - 💞️ I’m want to find work
-- 📫 How to reach me just write me in the Telegram
-- 😄 Pronouns: Focdos, Food
-- ⚡ Fun fact: i am from Russia, but learning English ^+^
+- 📫 How to reach me just write me in the Telegram --> @Focdos
+- 😄 Pronouns: Food
+- ⚡ Fun fact: i am from Russia, but learning English ^_^
   
                                                    
 
