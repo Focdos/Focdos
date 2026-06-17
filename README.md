@@ -1,7 +1,6 @@
-Focdos = Human( 
-
-  name = "byrmalda",
-
-  lang = [c++, c#],
-  
-)
+```markdown
+```css
+body {
+  margin: 0;
+  padding: 0;
+}
