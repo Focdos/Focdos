@@ -1,6 +1,6 @@
 ```css
 
-Focdos = Human{
+Focdos = Human {
   name = "Burmalda",
-  lang = [c++, c#]
+   lang = [c++, c#]
 }
