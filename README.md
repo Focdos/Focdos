@@ -1,4 +1,6 @@
-Focdos = Human(
+Focdos = Human( 
+
   name = "byrmalda",
   lang = [c++, c#],
+  
 )
