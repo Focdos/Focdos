@@ -1,6 +1,6 @@
-```markdown
 ```css
-body {
-  margin: 0;
-  padding: 0;
+
+Focdos = Human{
+  name = "Burmalda",
+  lang = [c++, c#]
 }
