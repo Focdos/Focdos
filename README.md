@@ -1,6 +1,6 @@
 ```css
 
 Focdos = Human {
-  name = "Burmalda",
-   lang = [c++, c#]
+name = "Burmalda",
+lang = [c++, c#]
 }
